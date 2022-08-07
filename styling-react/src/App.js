@@ -6,6 +6,7 @@ class App extends Component {
     return (
       <div>
         <StyledComponent/>
+        왜 안돼
       </div>
     );
   }
